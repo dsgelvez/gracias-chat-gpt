@@ -1,19 +1,24 @@
-#  Reto 2: Hola Mundo en 3 entornos
+# 🐍 Reto 2: Hola Mundo en 3 entornos
 
 Este repositorio muestra cómo ejecutar un simple programa en Python en tres entornos distintos.
 
-##  Código
+## 📜 Código
 
 ```python
 if __name__ == "__main__":
     print("Hola mundo")
-### Capturas de pantalla
+🧪 Entornos de ejecución
+1. Bloc de notas + Terminal
+✅ Resultado: Se imprimió "Hola mundo".
 
-#### 1. Bloc de notas + Terminal
-![Bloc de notas](blocdenotas.png)
+📸 Captura:
 
-#### 2. Intérprete de Python
-![Intérprete](interpretepython.png)
+2. Intérprete interactivo de Python
+❌ Resultado: No se imprimió nada (esto es esperado).
 
-#### 3. Visual Studio Code
-![VSCode](vscode.png)
+📸 Captura:
+
+3. Visual Studio Code
+✅ Resultado: Se imprimió "Hola mundo".
+
+📸 Captura:
